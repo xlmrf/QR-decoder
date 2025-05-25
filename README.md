@@ -1,3 +1,1 @@
-# lab6
-# JavaScript
-Decoding a QR-code
+# Decoding a QR-code
